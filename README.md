@@ -1,4 +1,4 @@
-# Simulação de Investimentos
+# Simulação de Investimentos [ ![Excel](https://img.shields.io/badge/Excel-Planilha-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ]
 
 Este projeto contém uma planilha do Excel destinada à simulação de investimentos com base em diferentes perfis de investidor. A planilha possui duas abas principais: **App** e **Apoio**.
 
