@@ -38,4 +38,4 @@ A planilha tem como finalidade auxiliar na simulação de investimentos, sugerin
 
 ## 📁 Arquivo
 
-- `simulacao_investimentos.xlsx` : Contém os dados da simulação e as configurações de alocação por perfil.
+- [Acesse a planilha no Google Sheets] (https://docs.google.com/spreadsheets/d/1yIabaFm-zM2Mh1ggdGRH7vi-ld0lq8zb5oHQGSrRgV4/edit?usp=sharing) : Contém os dados da simulação e as configurações de alocação por perfil.
